@@ -1,0 +1,7 @@
+requests==2.7.0
+beautifulsoup4==4.7.1
+pandas
+geopy==1.20.0
+pycountry==19.8.18
+wbdata==0.2.7
+matplotlib==3.0.3
